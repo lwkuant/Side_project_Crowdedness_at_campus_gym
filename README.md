@@ -1,4 +1,4 @@
-# Side_project_Crowdedness_at_campus_gym
+# Side Project: Predict the Crowdedness of the Campus Gym
 
 ## Overview
 This goal of this work is to predict the number of people at the campus gym, which can be applied to better manage the deployment of the staff and maintenance of the equipments.
